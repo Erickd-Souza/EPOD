@@ -1,0 +1,123 @@
+
+ 0 - Sair
+ 1 - Inserir Ordenado
+ 2 - Remover
+ 3 - Buscar
+ 4 - Imprimir
+ 5 - Imprimir endereco de Memoria
+ Digite uma Opcao: 1
+ Valor: 20
+
+ Endereco do novo no: 00000000001F6B10
+ Conteudo do novo no - Valor: 20, Proximo: 0000000000000000
+
+ 0 - Sair
+ 1 - Inserir Ordenado
+ 2 - Remover
+ 3 - Buscar
+ 4 - Imprimir
+ 5 - Imprimir endereco de Memoria
+ Digite uma Opcao: 1
+ Valor: 40
+
+ Endereco do novo no: 00000000001F6B30
+ Conteudo do novo no - Valor: 40, Proximo: 0000000000000000
+
+ 0 - Sair
+ 1 - Inserir Ordenado
+ 2 - Remover
+ 3 - Buscar
+ 4 - Imprimir
+ 5 - Imprimir endereco de Memoria
+ Digite uma Opcao: 1
+ Valor: 10
+
+ Endereco do novo no: 00000000001F6B50
+ Conteudo do novo no - Valor: 10, Proximo: 00000000001F6B10
+
+ 0 - Sair
+ 1 - Inserir Ordenado
+ 2 - Remover
+ 3 - Buscar
+ 4 - Imprimir
+ 5 - Imprimir endereco de Memoria
+ Digite uma Opcao: 1
+ Valor: 30
+
+ Endereco do novo no: 00000000001F6B70
+ Conteudo do novo no - Valor: 30, Proximo: 00000000001F6B30
+
+ 0 - Sair
+ 1 - Inserir Ordenado
+ 2 - Remover
+ 3 - Buscar
+ 4 - Imprimir
+ 5 - Imprimir endereco de Memoria
+ Digite uma Opcao: 5
+
+ Lista enderecos:
+ [10]-[00000000001F6B50] -> proximo [00000000001F6B10]
+ [20]-[00000000001F6B10] -> proximo [00000000001F6B70]
+ [30]-[00000000001F6B70] -> proximo [00000000001F6B30]
+ [40]-[00000000001F6B30] -> proximo [0000000000000000]
+
+ 0 - Sair
+ 1 - Inserir Ordenado
+ 2 - Remover
+ 3 - Buscar
+ 4 - Imprimir
+ 5 - Imprimir endereco de Memoria
+ Digite uma Opcao: 2
+
+ Qual o valor que deseja remover: 30
+
+ Elemento Removido: 30
+ 0 - Sair
+ 1 - Inserir Ordenado
+ 2 - Remover
+ 3 - Buscar
+ 4 - Imprimir
+ 5 - Imprimir endereco de Memoria
+ Digite uma Opcao: 5
+
+ Lista enderecos:
+ [10]-[00000000001F6B50] -> proximo [00000000001F6B10]
+ [20]-[00000000001F6B10] -> proximo [00000000001F6B30]
+ [40]-[00000000001F6B30] -> proximo [0000000000000000]
+
+ 0 - Sair
+ 1 - Inserir Ordenado
+ 2 - Remover
+ 3 - Buscar
+ 4 - Imprimir
+ 5 - Imprimir endereco de Memoria
+ Digite uma Opcao: 1
+ Valor: 25
+
+ Endereco do novo no: 00000000001F6B70
+ Conteudo do novo no - Valor: 25, Proximo: 00000000001F6B30
+
+ 0 - Sair
+ 1 - Inserir Ordenado
+ 2 - Remover
+ 3 - Buscar
+ 4 - Imprimir
+ 5 - Imprimir endereco de Memoria
+ Digite uma Opcao: 5
+
+ Lista enderecos:
+ [10]-[00000000001F6B50] -> proximo [00000000001F6B10]
+ [20]-[00000000001F6B10] -> proximo [00000000001F6B70]
+ [25]-[00000000001F6B70] -> proximo [00000000001F6B30]
+ [40]-[00000000001F6B30] -> proximo [0000000000000000]
+
+ 0 - Sair
+ 1 - Inserir Ordenado
+ 2 - Remover
+ 3 - Buscar
+ 4 - Imprimir
+ 5 - Imprimir endereco de Memoria
+ Digite uma Opcao:
+
+
+
