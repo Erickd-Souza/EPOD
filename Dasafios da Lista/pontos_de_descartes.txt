@@ -1,0 +1,50 @@
+1;Plastico;Rua das Acaciaps, Numero 123, Bairro Jardim
+2;Vidro;Avenida Brasil, Numero 456, Centro
+3;Eletronicos;Praca da Liberdade, Numero 789, Vila Nova
+4;Papel;Rua Sao Paulo, Numero 101, Bairro das Palmeiras
+5;Metal;Avenida dos Trabalhadores, Numero 202, Parque Industrial
+6;Vidro;Rua das Flores, Numero 303, Jardim das Rosas
+7;Plastico;Avenida Ipiranga, Numero 404, Centro Historico
+8;Eletronicos;Rua Santa Cruz, Numero 505, Bairro da Paz
+9;Papel;Avenida Tiete, Numero 606, Vila Sao Joao
+10;Metal;Praca dos Eucaliptos, Numero 707, Vila Aurora
+11;Plastico;Rua dos Lirios, Numero 808, Jardim Primavera
+12;Vidro;Avenida Paulista, Numero 909, Bela Vista
+13;Eletronicos;Rua do Sol, Numero 1001, Bairro Solar
+14;Papel;Avenida Rio Branco, Numero 1112, Centro
+15;Metal;Rua das Orquideas, Numero 1213, Jardim Tropical
+16;Vidro;Avenida Faria Lima, Numero 1314, Vila Progresso
+17;Plastico;Rua dos Jasmins, Numero 1415, Bairro dos Tres Irmaos
+18;Eletronicos;Praca da Se, Numero 1516, Centro
+19;Papel;Rua dos Angelicas, Numero 1617, Jardim America
+20;Metal;Avenida dos Bufalos, Numero 1718, Parque dos Ipes
+21;Vidro;Rua dos Jacarandas, Numero 1819, Bairro Bela Vista
+22;Plastico;Avenida dos Passaros, Numero 1920, Jardim Esplanada
+23;Eletronicos;Praca do Carmo, Numero 2021, Bairro Santo Antonio
+24;Papel;Rua das Palmeiras, Numero 2122, Jardim das Acacias
+25;Metal;Avenida Joao Pessoa, Numero 2223, Parque Central
+26;Vidro;Rua da Paz, Numero 2324, Bairro das Flores
+27;Plastico;Avenida Rio de Janeiro, Numero 2425, Centro
+28;Eletronicos;Rua de Minas, Numero 2526, Bairro Horizonte
+29;Papel;Avenida dos Tres Rios, Numero 2627, Vila dos Coqueiros
+30;Metal;Rua das Mangueiras, Numero 2728, Parque dos Passaros
+31;Vidro;Avenida Porto Feliz, Numero 2829, Jardim do Sol
+32;Plastico;Rua do Morumbi, Numero 2930, Vila Nova
+33;Eletronicos;Praca dos Ventos, Numero 3031, Bairro Sao Francisco
+34;Papel;Rua dos Cedros, Numero 3132, Bairro Cidade Nova
+35;Metal;Avenida das Aguas, Numero 3233, Jardim das Cores
+36;Vidro;Rua da Serra, Numero 3334, Vila Sao Joao
+37;Plastico;Avenida Amazonas, Numero 3435, Centro
+38;Eletronicos;Praca das Aves, Numero 3536, Bairro Alvorada
+39;Papel;Rua do Horizonte, Numero 3637, Jardim Tres Marias
+40;Metal;Avenida Paraiba, Numero 3738, Bairro Rio Verde
+41;Vidro;Rua do Jardim, Numero 3839, Bairro da Serra
+42;Plastico;Avenida dos Eucaliptos, Numero 3940, Vila Mirante
+43;Eletronicos;Praca do Sol, Numero 4041, Bairro Primavera
+44;Papel;Rua do Comercio, Numero 4142, Centro
+45;Metal;Avenida Rio Grande, Numero 4243, Jardim Sao Jose
+46;Vidro;Rua do Limoeiro, Numero 4344, Bairro Santo Andre
+47;Plastico;Avenida dos Lirios, Numero 4445, Vila Flor
+48;Eletronicos;Praca da Paz, Numero 4546, Bairro Jardim Luz
+49;Papel;Rua dos Bambus, Numero 4647, Vila Imperial
+50;Metal;Avenida das Estacoes, Numero 4748, Bairro dos Verdes Campos
